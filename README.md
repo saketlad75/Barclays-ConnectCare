@@ -6,7 +6,7 @@
 ## 1] Login
 ![WhatsApp Image 2024-04-17 at 19 28 58](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/0ff7af7c-05a4-49a8-94d9-f6e5280751b1)
 ## 2] Digital Box!
-![Digital Box](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/7ed63c70-5c27-45be-9765-048f8a8ddcc7)
+![Digital Box](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/3ac0c062-fdbd-4220-98d1-e0a95b0d14af)
 
 ## Services
 ![WhatsApp Image 2024-04-17 at 19 28 59](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/b167d574-861d-4841-9a60-353ba5c37042)
