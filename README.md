@@ -68,7 +68,10 @@
 
 
 # Technologies Used
-
+- Mobile App - Android Studio
+- Django
+- AWS
+- 
 
 ![Screenshot 2024-04-17 111635](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/188d254a-ad1b-43ec-9ec2-9bb6eae0144d)
 
