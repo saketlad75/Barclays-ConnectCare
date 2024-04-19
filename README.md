@@ -2,7 +2,7 @@
  Barclays Hack-o-Hire 
 
 ## Table Content
-- [How Our Solution Works?](#How Our Solution Works?)
+- [How Our Solution Works?](#howoursolutionworks?)
 
 # How Our Solution Works?
 
