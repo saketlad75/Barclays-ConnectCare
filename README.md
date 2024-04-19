@@ -4,28 +4,34 @@
 # How Our Solution Works?
 
 ## 1] Login
-![WhatsApp Image 2024-04-17 at 19 28 58](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/0ff7af7c-05a4-49a8-94d9-f6e5280751b1)
+![WhatsApp Image 2024-04-17 at 19 28 58](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/564f0018-c64f-4fdf-ae46-bb7f345f6465)
+
 ## 2] Digital Box!
 ![Digital Box (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/a4b97d10-49c8-4ce9-8ef4-9590b0a2ca4b)
 
 
 ## Services
-![WhatsApp Image 2024-04-17 at 19 28 59](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/b167d574-861d-4841-9a60-353ba5c37042)
+![WhatsApp Image 2024-04-17 at 19 28 59](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/629c99db-eb02-47d3-879b-cc875bf7f59e)
 
 ## Barc-Help Chatbot
-![WhatsApp Image 2024-04-17 at 19 28 59 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/48e17434-6be0-43a9-825d-fc3345e1d1f3)
+![WhatsApp Image 2024-04-17 at 19 28 59 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/eef807b8-942b-4990-a043-019114a96b95)
+
 
 ## Upload Document(For Document Verification Purposes: Example KYC)[OCR - Optical Character Recognition]
-![WhatsApp Image 2024-04-17 at 19 29 00](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/6bb9ef6b-66c2-4202-98ed-74a72dad00b4)
-![WhatsApp Image 2024-04-17 at 19 29 00 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/48b1f37c-d48a-4598-a0bc-be370a04dee9)
-![WhatsApp Image 2024-04-17 at 19 29 01](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/ada5acfc-aa1d-4c28-bf52-a0ea3b81d68c)
+
+![WhatsApp Image 2024-04-17 at 19 29 00](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/4059fed8-3f22-4a84-9dc9-4a0dad65cef7)
+![WhatsApp Image 2024-04-17 at 19 29 00 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/c30c6e92-14b1-431e-affc-4d51a07b8234)
+![WhatsApp Image 2024-04-17 at 19 29 01](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/ebaff473-da62-42bf-b096-867e49b54ba4)
 
 ## Raise A Ticket
-![WhatsApp Image 2024-04-17 at 19 29 01 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/30838a01-ad70-47e3-9250-d71611255bae)
-![WhatsApp Image 2024-04-17 at 19 29 01 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/1aef238e-65fa-48a4-9952-0be31bc0010e)
-![WhatsApp Image 2024-04-17 at 19 29 02](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/4b4ff646-2157-4551-b4eb-6e897706f9c4)
+![WhatsApp Image 2024-04-17 at 19 29 01 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/4c501547-d4c7-4e1a-81e2-ef83e21bc40c)
+![WhatsApp Image 2024-04-17 at 19 29 02](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/3597a934-f530-4227-a26a-76051bf9d41f)
+![WhatsApp Image 2024-04-17 at 19 29 02](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/626df854-7139-457a-a0a5-f2b15ef86ecc)
 
 ## In-App Notification
+![WhatsApp Image 2024-04-17 at 19 29 02 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/988c6d85-1850-4ff0-9aea-9fdbf96e4d86)
+![WhatsApp Image 2024-04-17 at 19 29 02 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/fd7d2dba-e75c-48fc-9c34-cffcf9dc5380)
+
 ![WhatsApp Image 2024-04-17 at 19 29 02 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/bb021b9b-c8c4-44bb-b422-9086a100e3df)
 ![WhatsApp Image 2024-04-17 at 19 29 02 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/7c479a1b-738a-42f2-937b-74defa203a5c)
 
