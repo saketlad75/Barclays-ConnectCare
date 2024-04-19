@@ -4,9 +4,9 @@
 ## Table Content
 - [How Our Solution Works?](#how-our-solution-works?)
   - [Android App](##android-app)
-  - [Web App](##colleague/companywebapp-(django))
+  - [Web App](##colleague/company-web-app-(django))
   - [QlikSense Report](##Qliksense-report)
-  - [AWS](##aws)
+  - [AWS](#aws)
 - [Technologies](#technologies-used)
 - [System Architecture](#system-architecture)
 
@@ -57,7 +57,7 @@
 ### Detailed Analysis of Tickets
 ![WhatsApp Image 2024-04-17 at 14 54 40 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/168cc7e8-c4da-49ce-b7e9-2df080210e11)
 
-### QlikSense Report
+## QlikSense Report
 ![Screenshot 2024-04-17 195018](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/a259a51f-f45c-4cbb-bdfb-236370fdc80d)
 
 ## AWS
