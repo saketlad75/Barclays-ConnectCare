@@ -56,6 +56,14 @@
 ### Document Uploaded in S3 Bucket
 ![Screenshot 2024-04-17 202011](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/f90377e4-4dea-471b-ae6a-88829405a395)
 
+### Virus Scan Lambda Function 
+![Screenshot 2024-04-07 155223](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/5869311b-255f-4c01-84af-1c8813a31a24)
+
+### Logs of virus scan
+![Screenshot 2024-04-07 083819](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/f63d46cf-91de-4c8e-b492-f4fc29f52e2a)
+
+
+
 ### Two Layer Password Protection of Uploaded Files
 ![Screenshot 2024-04-17 202100](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/65359e45-a723-4c63-bdba-c76a95795d25)
 
