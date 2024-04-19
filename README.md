@@ -69,7 +69,7 @@
 
 # Technologies Used
 - Mobile App: Android Studio
-- Web App: Django
+- Web App: React, Django
 - Data Storage: AWS, Firebase
 - Data Analytics: QlikSense
 - ML Model | Accuracy : Logistic Regression | 0.95 | Naive Bayes | 0.36 | 
