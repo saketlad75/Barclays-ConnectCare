@@ -1,5 +1,4 @@
 # Barclays-ConnectCare
- Barclays Hack-o-Hire 
 
 ## Table Content
 - [How Our Solution Works?](#how-our-solution-works?)
