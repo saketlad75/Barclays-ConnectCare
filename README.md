@@ -68,10 +68,12 @@
 
 
 # Technologies Used
-- Mobile App - Android Studio
-- Django
-- AWS
-- 
+- Mobile App: Android Studio
+- Web App: Django
+- Data Storage: AWS, Firebase
+- Data Analytics: QlikSense
+- ML Model | Accuracy : Logistic Regression | 0.95 | Naive Bayes | 0.36 | 
 
+# System Architecture
 ![Screenshot 2024-04-17 111635](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/188d254a-ad1b-43ec-9ec2-9bb6eae0144d)
 
