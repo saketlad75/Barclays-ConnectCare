@@ -36,13 +36,20 @@
 
 ## Colleague/Company Web App (Django)
 
+### Employee Login
 ![WhatsApp Image 2024-04-17 at 14 55 15](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/5feb8fa9-855d-4ba9-9460-368321f231e1)
 
+### All Tickets Raised
 ![WhatsApp Image 2024-04-17 at 14 56 30](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/0a8d8822-b576-443a-bfaf-be660da723f0)
 
+### Individual Ticket
 ![WhatsApp Image 2024-04-17 at 14 54 40](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/3ce9aa78-c449-4f8d-b267-abebbb1f5cba)
 
-![WhatsApp Image 2024-04-17 at 14 54 40 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/b4e39ca0-707d-4280-bc3b-a17513c6483c)
+### Detailed Analysis of Tickets
+![WhatsApp Image 2024-04-17 at 14 54 40 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/168cc7e8-c4da-49ce-b7e9-2df080210e11)
+
+### QlikSense Report
+![Screenshot 2024-04-17 195018](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/a259a51f-f45c-4cbb-bdfb-236370fdc80d)
 
 
 
