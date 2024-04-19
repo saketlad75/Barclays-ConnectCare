@@ -25,15 +25,12 @@
 
 ## Raise A Ticket
 ![WhatsApp Image 2024-04-17 at 19 29 01 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/4c501547-d4c7-4e1a-81e2-ef83e21bc40c)
-![WhatsApp Image 2024-04-17 at 19 29 02](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/3597a934-f530-4227-a26a-76051bf9d41f)
+![WhatsApp Image 2024-04-17 at 19 29 01 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/786ec069-101c-41af-84e3-a2dad8dc1294)
 ![WhatsApp Image 2024-04-17 at 19 29 02](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/626df854-7139-457a-a0a5-f2b15ef86ecc)
 
 ## In-App Notification
 ![WhatsApp Image 2024-04-17 at 19 29 02 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/988c6d85-1850-4ff0-9aea-9fdbf96e4d86)
 ![WhatsApp Image 2024-04-17 at 19 29 02 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/fd7d2dba-e75c-48fc-9c34-cffcf9dc5380)
-
-![WhatsApp Image 2024-04-17 at 19 29 02 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/bb021b9b-c8c4-44bb-b422-9086a100e3df)
-![WhatsApp Image 2024-04-17 at 19 29 02 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/7c479a1b-738a-42f2-937b-74defa203a5c)
 
 
 
