@@ -32,3 +32,17 @@
 ### In-App Notification
 ![WhatsApp Image 2024-04-17 at 19 29 02 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/988c6d85-1850-4ff0-9aea-9fdbf96e4d86)
 ![WhatsApp Image 2024-04-17 at 19 29 02 (2)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/fd7d2dba-e75c-48fc-9c34-cffcf9dc5380)
+
+
+## Colleague/Company Web App (Django)
+
+![WhatsApp Image 2024-04-17 at 14 55 15](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/5feb8fa9-855d-4ba9-9460-368321f231e1)
+
+![WhatsApp Image 2024-04-17 at 14 56 30](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/0a8d8822-b576-443a-bfaf-be660da723f0)
+
+![WhatsApp Image 2024-04-17 at 14 54 40](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/3ce9aa78-c449-4f8d-b267-abebbb1f5cba)
+
+![WhatsApp Image 2024-04-17 at 14 54 40 (1)](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/b4e39ca0-707d-4280-bc3b-a17513c6483c)
+
+
+
