@@ -51,5 +51,13 @@
 ### QlikSense Report
 ![Screenshot 2024-04-17 195018](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/a259a51f-f45c-4cbb-bdfb-236370fdc80d)
 
+## AWS
+
+### Document Uploaded in S3 Bucket
+![Screenshot 2024-04-17 202011](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/f90377e4-4dea-471b-ae6a-88829405a395)
+
+### Two Layer Password Protection of Uploaded Files
+![Screenshot 2024-04-17 202100](https://github.com/saketlad75/Barclays-ConnectCare/assets/83080783/65359e45-a723-4c63-bdba-c76a95795d25)
+
 
 
