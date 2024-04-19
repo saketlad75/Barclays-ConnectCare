@@ -3,9 +3,9 @@
 
 ## Table Content
 - [How Our Solution Works?](#how-our-solution-works?)
-  - [Android App](##android-app)
-  - [Web App](##colleague/company-web-app-(django))
-  - [QlikSense Report](##Qliksense-report)
+  - [Android App](#android-app)
+  - [Web App](#colleague/company-web-app-(django))
+  - [QlikSense Report](#qliksense-report)
   - [AWS](#aws)
 - [Technologies](#technologies-used)
 - [System Architecture](#system-architecture)
