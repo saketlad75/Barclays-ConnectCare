@@ -3,6 +3,12 @@
 
 ## Table Content
 - [How Our Solution Works?](#howoursolutionworks?)
+  - [Android App](#androidapp)
+  - [Web App](#colleague/companywebapp(django))
+  - [QlikSense Report](#Qliksensereport)
+  - [AWS](#aws)
+- [Technologies](@technologiesused)
+- [System Architecture](#systemarchitecture)
 
 # How Our Solution Works?
 
