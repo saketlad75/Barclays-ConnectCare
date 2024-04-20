@@ -17,7 +17,7 @@ In today's digital age, managing customer communications efficiently is paramoun
 
 # Description of Our Solution
 Introducing a mobile application and supporting web dashboard, engineered to redefine query resolution. Through streamlined categorization and urgency assessment, we're enhancing query management services.
-Our aim is to elevate resolution rates and response times for unparalleled efficiency.
+Our aim is to elevate resolution rates and response times for unparalleled efficiency and securely handle sensitive documents.
 
 # USPs
 - Barc-Help : A chatbot handling Automated Queries with Customer Care Support
