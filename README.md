@@ -3,8 +3,8 @@
 ## Table Content
 - [Problem We Aim To Solve](#problem-we-aim-to-solve)
 - [Description of Our Solution](#description-of-our-solution)
-- [How Our Solution Works?](#how-our-solution-works)
 - [USPs](#usps)
+- [How Our Solution Works?](#how-our-solution-works)
   - [Android App](#android-app)
   - [Web App](#colleaguecompany-web-app-django)
   - [QlikSense Report](#qliksense-report)
