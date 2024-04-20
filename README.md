@@ -20,11 +20,11 @@ Introducing a mobile application and supporting web dashboard, engineered to red
 Our aim is to elevate resolution rates and response times for unparalleled efficiency.
 
 # USPs
-Barc-Help : A chatbot handling Automated Queries with Customer Care Support
-Query Streamlining and Analysis for Urgency Determination
-Document Handling: Enhancing Data Security and Privacy for Users
-Efficient Human Intervention
-Image Scanning: Revolutionizing App Support Through AI-Driven Issue Resolution
+- Barc-Help : A chatbot handling Automated Queries with Customer Care Support
+- Query Streamlining and Analysis for Urgency Determination
+- Document Handling: Enhancing Data Security and Privacy for Users
+- Efficient Human Intervention
+- Image Scanning: Revolutionizing App Support Through AI-Driven Issue Resolution
 
 # How Our Solution Works?
 
