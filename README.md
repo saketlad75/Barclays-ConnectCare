@@ -1,13 +1,30 @@
 # Barclays-ConnectCare
 
 ## Table Content
+- [Problem We Aim To Solve](#problem-we-aim-to-solve)
+- [Description of Our Solution](#description-of-our-solution)
 - [How Our Solution Works?](#how-our-solution-works?)
+- [USPs](#usps)
   - [Android App](#android-app)
   - [Web App](#colleaguecompany-web-app-django)
   - [QlikSense Report](#qliksense-report)
   - [AWS](#aws)
 - [Technologies](#technologies-used)
 - [System Architecture](#system-architecture)
+
+# Problem We Aim To Solve
+In today's digital age, managing customer communications efficiently is paramount for businesses. However, disparate channels and data silos often hinder this process, leading to fragmented interactions and frustrated customers. 
+
+# Description of Our Solution
+Introducing a mobile application and supporting web dashboard, engineered to redefine query resolution. Through streamlined categorization and urgency assessment, we're enhancing query management services.
+Our aim is to elevate resolution rates and response times for unparalleled efficiency.
+
+# USPs
+Barc-Help : A chatbot handling Automated Queries with Customer Care Support
+Query Streamlining and Analysis for Urgency Determination
+Document Handling: Enhancing Data Security and Privacy for Users
+Efficient Human Intervention
+Image Scanning: Revolutionizing App Support Through AI-Driven Issue Resolution
 
 # How Our Solution Works?
 
